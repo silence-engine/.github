@@ -4,8 +4,8 @@ Organization profile for silence-engine. Contains `profile/`.
 
 ## License
 
+**Copyright (c) 2026 Ewa Tchórzewska (osoba fizyczna). Wszelkie prawa zastrzeżone.**
 
-All rights reserved, © Ewa Tchórzewska
-Wszelkie prawa zastrzeżone, © Ewa Tchórzewska
+Podmiot praw / Rights holder: **Ewa Tchórzewska (Owner)**. Licencja zamknięta / Closed licence: [`LICENSE`](LICENSE). Autorstwo i nazewnictwo / Authorship and naming: [`NOTICE`](NOTICE).
 
-Closed licence. All rights reserved; no open-source licence is granted. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+Kopiowanie, publikacja, modyfikacja oraz eksploracja tekstów i danych (w tym trenowanie AI) wymagają uprzedniej pisemnej zgody Ownera. Copying, publication, modification and text and data mining (including AI training) require the Owner's prior written consent.

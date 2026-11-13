@@ -32,5 +32,5 @@ End of session.
 | 36.00s | Pattern locked. |
 | 41.25s | End of session. |
 
-© 2026 SILENCE.OBJECTS — Ewa Tchórzewska. All rights reserved.  
-Music "Pattern Session", voice, visuals and text are original works owned by SILENCE.OBJECTS. No reuse, re-upload or AI training without written permission.
+Copyright (c) 2026 Ewa Tchórzewska (osoba fizyczna). Wszelkie prawa zastrzeżone. Ewa Tchórzewska (Owner).  
+Music "Pattern Session", voice, visuals and text are original works of Ewa Tchórzewska (Owner). No reuse, re-upload or AI training without the Owner's prior written permission.

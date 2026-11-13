@@ -1,8 +1,13 @@
-# Pattern Session assets — All rights reserved
+# Pattern Session — Wszelkie prawa zastrzeżone / All rights reserved
 
-These files under `profile/assets/pattern-session/` are **not** licensed under any open-source licence of this repository (including Apache-2.0 or MIT, if present).
+Copyright (c) 2026 Ewa Tchórzewska (osoba fizyczna). Wszelkie prawa zastrzeżone.
 
-© 2026 SILENCE.OBJECTS — Ewa Tchórzewska. All rights reserved.  
-Music "Pattern Session", voice, visuals and text are original works owned by SILENCE.OBJECTS. No reuse, re-upload or AI training without written permission.
+Muzyka „Pattern Session”, głos, obrazy i tekst w `profile/assets/pattern-session/`
+są utworami, których autorką i właścicielką praw jest Ewa Tchórzewska (Owner). Obowiązuje
+licencja zamknięta repozytorium: [`LICENSE`](../../../LICENSE). Bez uprzedniej
+pisemnej zgody Ownera nie wolno ich kopiować, publikować ponownie ani używać
+do trenowania AI.
 
-Contact the rights holder before any use outside viewing this organization profile.
+The music "Pattern Session", voice, visuals and text in this folder are original
+works of Ewa Tchórzewska (Owner), covered by the repository's closed licence (`LICENSE`).
+No copying, re-upload or AI training without the Owner's prior written permission.
